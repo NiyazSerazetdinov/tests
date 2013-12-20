@@ -15,6 +15,6 @@ while seq_index < sequence_size do
     j+=1
   end
   sequence = seq_temp
-  p sequence.join("")
+  p sequence
   seq_index+=1
 end
